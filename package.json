@@ -1,0 +1,22 @@
+{
+  "name": "a02-hughwill",
+  "version": "1.0.0",
+  "description": "assignment a02",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://hughwill: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@github.com/jdmar3-comp426/a02-hughwill.git"
+  },
+  "author": "Hugh Williamson",
+  "license": "FSFAP",
+  "bugs": {
+    "url": "https://github.com/jdmar3-comp426/a02-hughwill/issues"
+  },
+  "homepage": "https://github.com/jdmar3-comp426/a02-hughwill#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.7"
+  }
+}
